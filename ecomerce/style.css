@@ -1,0 +1,46 @@
+*{
+    padding:5px;
+    margin:0;
+    font-family: verdana;
+}
+ul{
+    justify-content: space-around;
+}
+ul li{
+    float: left;
+    list-style: none;
+    padding:15px;
+    font-size: 20px;
+}
+.carousel-inner{
+    img{
+        width: 100%;
+        height: 300px;
+    }
+}
+
+.col{
+    align-items:center;
+}
+.row{
+    img{
+        width: 250px;
+        height: 200px;
+    }
+}
+h5{
+    color: rgb(40,167,69);
+    text-align: center;
+    padding-top: 2px;
+}
+h4{
+    color: rgb(21, 197, 21);
+    text-align: center;
+}
+.vb{
+    color: white;
+    text-align: center;
+}
+.one{
+    font-size: 10px;
+}
